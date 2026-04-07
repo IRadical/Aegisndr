@@ -208,6 +208,7 @@ __marimo__/
 
 data/raw/
 data/processed/
+aegisndr.db
 *.pcap
 *.pcapng
 eve.json
