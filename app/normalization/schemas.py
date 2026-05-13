@@ -1,6 +1,6 @@
 import json
 from typing import List, Dict, Any
-from app.normalization.schemas import ZeekConnection
+from app.normalization import ZeekConnection
 
 class ZeekParser:
 
